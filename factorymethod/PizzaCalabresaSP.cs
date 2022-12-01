@@ -1,10 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace factorymethod
 {
+    //ConcreteProduct
     public class PizzaCalabresaSP : Pizza
     {
         public PizzaCalabresaSP()

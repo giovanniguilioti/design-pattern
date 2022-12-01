@@ -1,5 +1,6 @@
 namespace factorymethod
 {
+    //ConcreteProduct
     public class PizzaMussarelaSP : Pizza
     {
         public PizzaMussarelaSP()

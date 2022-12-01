@@ -1,5 +1,6 @@
 namespace factorymethod
 {
+    //ConcreteCreator
     public class PizzaFactorySP : PizzaFactoryMethod
     {
         protected override Pizza CriarPizza(string tipo)

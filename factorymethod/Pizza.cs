@@ -3,6 +3,7 @@ using System.Text;
 
 namespace factorymethod
 {
+    //Product
     public abstract class Pizza
     {
         protected string Nome { get; set; }

@@ -7,6 +7,6 @@ namespace abstractfactory
 {
     public interface IAbstractProductA
     {
-        
+        string UsefulFunctionA();
     }
 }

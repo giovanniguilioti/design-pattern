@@ -8,6 +8,7 @@ namespace abstractfactory
     public interface IAbstractFactory
     {
         IAbstractProductA CreateProductA();
+
         IAbstractProductB CreateProductB();
     }
 }
